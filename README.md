@@ -11,8 +11,10 @@ Mi enfoque en el desarrollo se centra especialmente en el backend, pero mi curio
 
 ![Java](https://img.shields.io/badge/Lenguajes-Java-yellow)
 ![MySql](https://img.shields.io/badge/BaseDeDatos-MySql-blue)
+![Servidor](https://img.shields.io/badge/Servidor-SpringBoot-green)
+![Apirest](https://img.shields.io/badge/Apirest-Postman-orange)
+![DataBaseNoSql](https://img.shields.io/badge/DataBaseNoSql-MongoDB-green)
 ![GitHub](https://img.shields.io/badge/-GitHub-red)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green)
 
 
 
