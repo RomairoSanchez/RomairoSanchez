@@ -11,6 +11,8 @@ Mi enfoque en el desarrollo se centra especialmente en el backend, pero mi curio
 
 ![Java](https://img.shields.io/badge/Lenguajes-Java-yellow)
 ![MySql](https://img.shields.io/badge/BaseDeDatos-MySql-blue)
+![MySql](https://img.shields.io/badge/-Github-red)
+
 
 
 ### ¡Conéctate conmigo! 🌐
