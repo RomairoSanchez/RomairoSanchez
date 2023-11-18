@@ -15,7 +15,7 @@ Mi enfoque en el desarrollo se centra especialmente en el backend, pero mi curio
 
 ### ¡Conéctate conmigo! 🌐
 
-- ✉️ [Email](ersanchezg100@gmail.com)
+- ✉️ [Email](mailto:ersanchezg100@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/romairo-sanchez-b08436248/)
 - 📸 [Instagram](https://www.instagram.com/romairo.s/)
 
